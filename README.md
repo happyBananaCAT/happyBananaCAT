@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there 👋My Name Is happyBananaCAT
 
+🌟 技术爱好者<br>
+🚀 技术栈：<br>
+🛠️ 前端：VUE | React | JavaScript<br>
+🔧 后端：Node.js <br>
+-🌍  I'm based in China<br>
+-✉️  You can contact me at 3460523463@qq.com<br>
+-😐  I'm learning：TypeScript and Webpack<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=happyBananaCAT&left_color=green&right_color=red)
 <!--
 **happyBananaCAT/happyBananaCAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
