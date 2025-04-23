@@ -7,7 +7,7 @@
 -🌍  I'm based in China<br>
 -✉️  You can contact me at 3460523463@qq.com<br>
 -😐  I'm learning：TypeScript and Webpack<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=happyBananaCAT&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=happyBananaCAT.happyBananaCAT&left_color=green&right_color=red)
 <!--
 **happyBananaCAT/happyBananaCAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
